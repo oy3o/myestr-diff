@@ -1,5 +1,3 @@
-好的，这是一个适用于你的 `github.com/oy3o/myestr-diff` 项目的 README.md 文件草稿。你可以根据需要进行修改和补充。
-
 # myestr-diff
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/oy3o/myestr-diff.svg)](https://pkg.go.dev/github.com/oy3o/myestr-diff)
